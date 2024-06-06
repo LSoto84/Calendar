@@ -7,6 +7,11 @@ export const lawyers = {
     lawyer1: "Juan Pérez",
     lawyer2: "Maria López",
     lawyer3: "Carlos Gómez",
+    lawyer3: "Carlos Gómez",
+    lawyer3: "Carlos Gómez",
+    lawyer3: "Carlos Gómez",
+    lawyer3: "Carlos Gómez",
+    lawyer3: "Carlos Gómez",
 }
 
 const LawyerPicker = ({ onChange, createdBy, value, auth, updateEventId }) => {

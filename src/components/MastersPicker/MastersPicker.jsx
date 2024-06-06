@@ -8,6 +8,14 @@ export const masters = {
     master2: "Master 2",
     master3: "Master 3",
     master4: "SOto",
+    master4: "SOto",
+    master4: "SOto",
+    master4: "SOto",
+    master4: "SOto",
+    master4: "SOto",
+    master4: "SOto",
+    master4: "SOto",
+    master4: "SOto",
 };
 
 
